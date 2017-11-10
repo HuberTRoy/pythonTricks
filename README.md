@@ -1,6 +1,6 @@
 # Take your Python skills to the next level
 
-These tricks come from <a href="https://dbader.org/">Dan Bader.</a>
+These tricks come from <a href="https://dbader.org/">Dan Bader</a> and myself.
 
 Title:
 
@@ -13,3 +13,5 @@ Title:
 <a href="https://github.com/HuberTRoy/pythonTricks/blob/master/tricks/get_on_dict_and_its_default.py">The get() method on Python dicts and its 'default' arg</a>
 
 <a href="https://github.com/HuberTRoy/pythonTricks/blob/master/tricks/define_a_class_manually_by_namedtuple.py">Python's namedtuples can be a great alternative to defining a class manually</a>
+
+<a href="https://github.com/HuberTRoy/pythonTricks/blob/master/tricks/use_json_pretty_print_dict.py">You can use "json.dumps()" to pretty-print Python dicts</a>
