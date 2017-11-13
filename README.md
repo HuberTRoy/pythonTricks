@@ -15,3 +15,5 @@ Title:
 <a href="https://github.com/HuberTRoy/pythonTricks/blob/master/tricks/define_a_class_manually_by_namedtuple.py">Python's namedtuples can be a great alternative to defining a class manually</a>
 
 <a href="https://github.com/HuberTRoy/pythonTricks/blob/master/tricks/use_json_pretty_print_dict.py">You can use "json.dumps()" to pretty-print Python dicts</a>
+
+<a href="https://github.com/HuberTRoy/pythonTricks/blob/master/tricks/unpack_function_argument.py">Function argument unpacking in Python</a>
