@@ -17,3 +17,5 @@ Title:
 <a href="https://github.com/HuberTRoy/pythonTricks/blob/master/tricks/use_json_pretty_print_dict.py">You can use "json.dumps()" to pretty-print Python dicts</a>
 
 <a href="https://github.com/HuberTRoy/pythonTricks/blob/master/tricks/unpack_function_argument.py">Function argument unpacking in Python</a>
+
+<a href="https://github.com/HuberTRoy/pythonTricks/blob/master/tricks/import_this.py">"import this"</a>
