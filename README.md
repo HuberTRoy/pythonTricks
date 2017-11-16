@@ -19,3 +19,6 @@ Title:
 <a href="https://github.com/HuberTRoy/pythonTricks/blob/master/tricks/unpack_function_argument.py">Function argument unpacking in Python</a>
 
 <a href="https://github.com/HuberTRoy/pythonTricks/blob/master/tricks/import_this.py">"import this"</a>
+
+
+<a href="https://github.com/HuberTRoy/pythonTricks/blob/master/tricks/measure_the_execution_time_with_the_timeit_module.py.py">Measure the execution time of small bits of Python code with the "timeit" module</a>
