@@ -22,3 +22,7 @@ Title:
 
 
 <a href="https://github.com/HuberTRoy/pythonTricks/blob/master/tricks/measure_the_execution_time_with_the_timeit_module.py.py">Measure the execution time of small bits of Python code with the "timeit" module</a>
+
+<a href="https://github.com/HuberTRoy/pythonTricks/blob/master/tricks/is_vs_==.py">"is" VS "=="</a>
+
+<a href="https://github.com/HuberTRoy/pythonTricks/blob/master/tricks/shorthand_for_in-place_value_swapping.py">Python's shorthand for in-place value swapping</a>
