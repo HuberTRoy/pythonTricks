@@ -1,4 +1,4 @@
-# Take your Python skills to the next level
+# 🐍 Take your Python skills to the next level 🐍
 
 These tricks come from <a href="https://dbader.org/">Dan Bader</a> and myself.
 
@@ -26,3 +26,5 @@ Title:
 <a href="https://github.com/HuberTRoy/pythonTricks/blob/master/tricks/is_vs_==.py">"is" VS "=="</a>
 
 <a href="https://github.com/HuberTRoy/pythonTricks/blob/master/tricks/shorthand_for_in-place_value_swapping.py">Python's shorthand for in-place value swapping</a>
+
+<a href="https://github.com/HuberTRoy/pythonTricks/blob/master/tricks/use_dict_to_replace_swich_case_statements.py">Dicts can be used to emulate switch/case statements</a>
