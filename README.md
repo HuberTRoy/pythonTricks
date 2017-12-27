@@ -28,3 +28,9 @@ Title:
 <a href="https://github.com/HuberTRoy/pythonTricks/blob/master/tricks/shorthand_for_in-place_value_swapping.py">Python's shorthand for in-place value swapping</a>
 
 <a href="https://github.com/HuberTRoy/pythonTricks/blob/master/tricks/use_dict_to_replace_swich_case_statements.py">Dicts can be used to emulate switch/case statements</a>
+
+<a href="https://github.com/HuberTRoy/pythonTricks/blob/master/tricks/finding_the_most_common_elements_in_an_iterable.py">Finding the most common elements in an iterable</a>
+
+<a href="https://github.com/HuberTRoy/pythonTricks/blob/master/tricks/fun.py">Fun</a>
+
+<a href="https://github.com/HuberTRoy/pythonTricks/blob/master/tricks/type_annotations.py">Type annotations</a>
